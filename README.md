@@ -1,5 +1,5 @@
 # Automated-Geofencing-Logistics-Optimization-Case-Study
-**Enterprise Client:** BMW Group | **Logistics Provider:** DHL Freight | **Implementation Partner:** Deloitte
+**Enterprise Client:** BMW Group | **Logistics Provider:** DHL Freight | **Implementation Partner:** Siemens
 
 This repository contains the architecture blueprint, process optimization lifecycle documentation, and data models for the automated supply chain geofencing integration implemented to safeguard automotive **Just-In-Time (JIT)** workflows.
 
@@ -20,7 +20,7 @@ This repository contains the architecture blueprint, process optimization lifecy
 - Documented data models inside **Confluence** to establish strict system validation logic for cross-system JIT logistics handoffs.
 
 ### 2. External Vendor Execution & Translation
-- Served as the primary strategic interface translating business constraints into technical engineering parameters for our deployment partner, **Deloitte**.
+- Served as the primary strategic interface translating business constraints into technical engineering parameters for our deployment partner, **Siemens**.
 
 ### 3. User Acceptance Testing (UAT) & Bug Remediation
 - Managed full regression testing loops. Generated explicit debug cases inside **ServiceNow** for identified software defects, enforcing rapid remediation cycles prior to deployment.
